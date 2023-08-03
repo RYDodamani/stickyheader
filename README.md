@@ -1,4 +1,4 @@
-Here's a summary of the key characteristics of a sticky header:
+#Here's a summary of the key characteristics of a sticky header:
 
 * Remains fixed at the top of the viewport while the user scrolls.
 * Usually contains a website logo, navigation menu, and sometimes other important elements.
