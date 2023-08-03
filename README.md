@@ -6,7 +6,7 @@ Provides a consistent user experience and easy access to navigation options.
 Implemented using CSS (e.g., position: fixed) and JavaScript to manage its behavior.
 
 
-
+```css
 .sticky {
   background-color: #fff; /* Change the background color when sticky */
   position: fixed; /* Stick the header at the top */
